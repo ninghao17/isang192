@@ -1,0 +1,7 @@
+﻿<li><a href="http://localhost/page.php?id=1">우뇽파스타</a></li>
+<li><a href="http://localhost/page.php?id=2">장독대</a></li>
+<li><a href="http://localhost/page.php?id=3">유정쌈밥</a></li>
+<li><a href="http://localhost/page.php?id=4">라이스앤포테이토</a></li>
+<li><a href="http://localhost/page.php?id=5">충북순대</a></li>
+<li><a href="http://localhost/page.php?id=6">이탈리안돈까스</a></li>
+<li><a href="http://localhost/page.php?id=7">터방내</a></li>

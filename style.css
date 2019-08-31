@@ -1,0 +1,35 @@
+article {
+  padding-left: -left:20px;
+  padding-right:50px;
+}
+article img{
+  width:400px;
+  height:300px;
+}
+nav ol{
+  list-style:none;
+}
+#jumbotron{
+  padding-top: 30px;
+  padding-bottom:30px;
+  margin-bottom:30px;
+  color:inherit;
+  background-color:#2155A4;
+}
+#logo{
+  width:100px;
+  height:100px;
+}
+header {
+  text-color:#ffffff;
+}
+nav ol{
+  text-size:13px;
+}
+nav{
+  background-color:#EEEEEE;
+  height:100%;
+}
+iframe{
+  margin:30px;
+}
